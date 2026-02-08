@@ -14,4 +14,16 @@ Credits: Modified By Orie Morie
 
 Resent Client Is What This Is Based Off
 
+If You Have Any Suggestions DM Me On Discord: OrieMorie8291
+
 Thanks For Using.
+
+UPDATES:
+
+2/7/26:
+
+fixed nether star texture
+
+fixed moon texture
+
+added funny painting art
