@@ -6,7 +6,7 @@ Open GUI For Mods With: "Y"
 
 To Fix Blurry Textures Hold G Then Press ESC
 
-The Fire Is A Glitched Texture To Remove It From First Person For More Consis Easier Andtent PVP (And So You Can See Invisible Players) So Sorry About That
+The Fire Is A Glitched Texture To Remove It From First Person For More Consistent And Easier PVP (And So You Can See Invisible Players Who Abuse Bugs) So Sorry About That :P
 
 Version Usage: EaglerCraft 1.5.2
 
