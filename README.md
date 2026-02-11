@@ -18,9 +18,19 @@ Thanks For Using.
 
 UPDATE LOGS:
 
+2/11/2026:
+
+Texture pack is now automatically selected allowing for faster launch times and fixes accidental self crashing(s) of the game (Suggested by Nervy owner of Messcraft)
+
+New Panoramas
+
+
+
 2/10/2026:
 
 Huge update: NEW GUI for everything pause and menu related, INCLUDING hotbar and updated splash title to help newer users!
+
+
 
 2/7/2026:
 
